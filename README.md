@@ -61,9 +61,6 @@ pyinstaller --onefile --noconsole --name "微信聊天分析" gui.py
 - 聊天记录仅发送至 DeepSeek API 进行分析，不会上传至其他第三方
 - 请勿在公开仓库中包含真实的聊天记录 JSON 文件
 
-## 许可
-
-MIT License
 
 ## 声明
 
